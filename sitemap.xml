@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/about-conference.html</loc>
+    
+    <lastmod>2016-05-22T03:42:58.274Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/sponsorship.html</loc>
     
     <lastmod>2016-05-22T03:34:13.087Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://thunderplainsconf.com/cfp.html</loc>
     
     <lastmod>2016-05-22T02:45:05.511Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/about-conference.html</loc>
-    
-    <lastmod>2016-05-22T02:40:59.780Z</lastmod>
     
   </url>
   
